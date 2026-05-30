@@ -46,7 +46,6 @@ python train.py
 python generate.py
 ```
 
-## Course
 
 This project was built by completing the [NeetCode ML Course](https://neetcode.io/practice?tab=coreSkills&topic=Machine+Learning):
 - Math Foundations (gradient descent, activations, loss functions)
